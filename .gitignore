@@ -1,0 +1,5 @@
+bin/*
+!bin/.gitkeep
+*.json
+libs/*/node_modules
+src/*/*.class
